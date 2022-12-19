@@ -14,3 +14,5 @@ Weekly homeworks:
 7. Avalanche duration probability
 
 8. Stability of exitatory-inhibitory of two neurons system
+
+Project: 
