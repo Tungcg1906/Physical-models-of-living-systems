@@ -7,7 +7,7 @@ Weekly homeworks:
 
 3. Lotka-Volterra
 
-4 + 5. Ecological interactions
+4+5. Ecological interactions
 
 6. Generlized consumer resource model
 
