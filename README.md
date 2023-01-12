@@ -15,6 +15,6 @@ Weekly homeworks:
 
 8. Stability of exitatory-inhibitory of two neurons system
 
-9+10. Hopfield netwwork
+9+10. Hopfield network
 
 Project: 
