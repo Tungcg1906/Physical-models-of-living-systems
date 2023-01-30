@@ -19,4 +19,4 @@ Weekly homeworks:
 
 10+11. Stochastic dynamics of the two stage model
 
-Project: 
+Project: Modelling small-patterned neuronal networks coupled to microelectrode arrays
