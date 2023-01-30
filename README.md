@@ -17,4 +17,6 @@ Weekly homeworks:
 
 9+10. Hopfield network
 
+10+11. Stochastic dynamics of the two stage model
+
 Project: 
